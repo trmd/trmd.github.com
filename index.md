@@ -8,11 +8,11 @@ These are notes, curated from the ones I keep for my research. Mainly I work on 
 
 This is inspired by many other projects, but most notably [Cosma's Notebooks](http://vserver1.cscs.lsa.umich.edu/~crshalizi/notebooks/) and [Boettiger's Lab Notebook](http://www.carlboettiger.info/2012/09/28/Welcome-to-my-lab-notebook.html).
 
-These are all notes so far:
+These are all notes so far and their latest update:
 
 <ul class="posts">
   {% for post in site.posts %}
-    <li><span>{{ post.date | date: "%Y-%m-%d" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+    <li><span><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }} {{ post.date | date: "%Y-%m-%d" }}</span> &raquo; </a></li>
   {% endfor %}
 </ul>
 
