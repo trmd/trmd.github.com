@@ -3,8 +3,6 @@ layout: page
 title: zettelkasten
 ---
 
-TEST UPDATE
-
 This whole site is inspired by the phenomena of commonplace books and zettelkästen/slip note boxes. 
 
 On the subject:
