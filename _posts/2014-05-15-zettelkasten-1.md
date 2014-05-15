@@ -12,5 +12,13 @@ On the subject:
 * Tietze, Christian – [Zettelkasten book](http://www.zettelkasten.de)  
 * Berlin Johnson, Steven – [Tool For Thought](http://www.stevenberlinjohnson.com/movabletype/archives/000230.html)  
 
-See also: [[filing]]
+
+#### Personal notes:
+
+See also: [[filing]]  
+[[Luhmann, Niklas – Communicating with Slip Boxes: An Empirical Account]]  
+[[Tietze, Christian - Extend Your Mind and Memory With a Zettelkasten]]  
+[[TAKING NOTE - Luhmann's Zettelkasten]]  
+relevant idé: [[d 2014-04-21]]  
+och viktigt: [[avhandling]]  
 
