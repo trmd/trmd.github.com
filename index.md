@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Concept Notes
+title: Norm
 <!-- tagline: Supporting tagline -->
 ---
 
