@@ -16,3 +16,4 @@ All notes so far:
   {% endfor %}
 </ul>
 
+[Publications etc…](http://www.gu.se/omuniversitetet/personal/?userId=xjtorm)
