@@ -1,4 +1,8 @@
-# Concept notes
+---
+layout: page
+title: trmd
+<!-- tagline: Supporting tagline -->
+---
 
 These are notes, curated from the ones I keep for personal use.
 
