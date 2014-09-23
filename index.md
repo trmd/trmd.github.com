@@ -12,6 +12,7 @@ This is inspired by many other projects, such as [Cosma's Notebooks](http://vser
 
 ## Notes
 
-[2014-05-16-zettelkasten](2014-05-16-zettelkasten.md)
+[Pandoc clipboard conversion (LaTeX to Markdown and vice versa)](pandoc-clipboard-conversion.md)
+[Zettelkasten](zettelkasten.md)
 [Favoritförfattningar](favoritforfattningar.md)
-[2014-07-30-generating-a-novel](2014-07-30-generating-a-novel.md)
+[Generating a novel](generating-a-novel.md)

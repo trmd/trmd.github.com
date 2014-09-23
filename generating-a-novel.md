@@ -11,3 +11,7 @@
 > At first, of course, it wouldn’t be a novel so much as a haiku. But that doesn’t matter. The important thing is to make a start.
 
 [The World According to Eco](http://www.wired.com/wired/archive/5.03/ff_eco_pr.html)
+
+---
+
+2014-09-23
