@@ -1,7 +1,4 @@
----
-layout: page
-title: the important thing is to start
----
+# The important thing is to start
 
 [Umberto Eco](https://en.wikipedia.org/wiki/Umberto_Eco) on starting:
 

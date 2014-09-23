@@ -1,7 +1,4 @@
----
-layout: page
-title: favoritförfattningar
----
+# Favoritförfattningar
 
 <!-- lagar jag tycker om
 ----------------- -->
