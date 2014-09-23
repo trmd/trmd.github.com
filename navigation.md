@@ -1,2 +1,2 @@
-# Concept Notes
+# Tormod's notes
 

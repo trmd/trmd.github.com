@@ -1,4 +1,4 @@
-# Concept notes
+# Tormod's notes
 
 These are notes, curated from the ones I keep for personal use.
 
