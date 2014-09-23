@@ -12,6 +12,6 @@ This is inspired by many other projects, such as [Cosma's Notebooks](http://vser
 
 ## Notes
 
-[](2014-05-16-zettelkasten)
-(2014-07-30-favoritforfattningar.md)
-(2014-07-30-generating-a-novel.md)
+[2014-05-16-zettelkasten](2014-05-16-zettelkasten)
+[2014-07-30-favoritforfattningar.md](2014-07-30-favoritforfattningar.md)
+[2014-07-30-generating-a-novel.md](2014-07-30-generating-a-novel.md)
