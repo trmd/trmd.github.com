@@ -1,2 +1,0 @@
-# Tormod's notes
-
